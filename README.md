@@ -1,7 +1,7 @@
 # multi_clip_gan
 # 🧠 Enhancing Image Captioning Using MultiCLIP-GAN Integration
 
-This project focuses on generating accurate and contextually relevant image captions by enhancing low-quality images using GANs and generating captions using multimodal models like CLIP and BLIP.
+This project focuses on generating accurate and contextually relevant image captions by enhancing low-quality images using RealESRGAN and generating captions using multimodal models like CLIP and BLIP.
 
 ---
 
@@ -10,9 +10,7 @@ This project focuses on generating accurate and contextually relevant image capt
 The dataset is too large to upload to GitHub.  
 It is stored in **Google Drive** and can be accessed here:
 
-🔗 [Click here to access the dataset](https://drive.google.com/your-dataset-link)
-
-(Replace the above link with your actual sharable Google Drive link)
+🔗 [Click here to access the dataset](https://drive.google.com/drive/folders/1HfiXeMapnkWPBbBp7VmCkLmsXcGrLcY_?usp=drive_link)
 
 ---
 
