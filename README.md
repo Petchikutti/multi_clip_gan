@@ -37,4 +37,4 @@ It is stored in **Google Drive** and can be accessed here:
 
 1. Clone this repo:
    ```bash
-   git clone 
+   git clone https://github.com/Petchikutti/multi_clip_gan.git
